@@ -3,7 +3,7 @@
 Built using tutorial at:
 
 Base: vuejs/vue-cli
-https://github.com/vuejs/vue-cli
+<https://github.com/vuejs/vue-cli>
 
 Basic NPM VUE-CLI Setup
 > npm install -g @vue/cli
@@ -16,6 +16,7 @@ or
 checkout on localhost:8080
 
 Basic NPM Express Server Setup
--- create 'server' directory at project root
+-- create 'server' directory at project root adn cd into it
 > npm init -f
-
+-- install a few things...
+> npm start
