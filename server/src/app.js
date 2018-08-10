@@ -20,5 +20,10 @@ app.post('/status', (req, res) => {
     message: 'hello app:post world!2',
   });
 });
+app.post('/register', (req, res) => {
+  res.send({
+    message: `Hello ${req.body.email}!! Your user was registered.`,
+  });
+});
 
 app.listen(process.env.PORT || 8081);
