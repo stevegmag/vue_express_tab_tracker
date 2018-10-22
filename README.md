@@ -55,6 +55,6 @@ force a new package.json in theis dir for server node_modues<br>
 (33:00) use chrome app *POSTMAN* to simulate post functions.<br>
 
 
-### Intro : part 2
+### Intro: part 1: 
 - https://youtu.be/Fa4cRMaTDUI?t=36m53s
-- https://youtu.be/Fa4cRMaTDUI?t=47m2s
+- Start working on the UI: https://youtu.be/Fa4cRMaTDUI?t=47m2s
