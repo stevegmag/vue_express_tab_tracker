@@ -13,21 +13,21 @@ https://www.youtube.com/watch?v=Fa4cRMaTDUI&t=2878s
 
 - clone repo from github
 - install vue cli
-` > npm install -g @vue/cli
+` > npm install -g @vue/cli `
 - switch directory to new porject
-` > npm install
+` > npm install `
 - Start Dev App:
-` > npm run dev
+` > npm run dev `
 or
- `> npm start
+ ` > npm start `
 
 checkout in browser: localhost:8081
 
 Basic NPM Express Server Setup
 - create 'server' directory at project root and cd into it
-` > npm init -f
+` > npm init -f `
 - install a few things...
-` > npm start
+` > npm start `
 
 use chrome app POSTMAN to simulate post functions.
 
