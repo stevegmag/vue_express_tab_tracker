@@ -1,6 +1,14 @@
 <template>
   <div>
     <h1>Register</h1>
+
+    <input
+      type="email"
+      name="email"
+      placeholder="please enter  your email address" 
+    />
+
+
   </div>
 
 </template>
