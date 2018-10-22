@@ -1,5 +1,7 @@
 // app.js
 
+// console.log('app.js called');
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
@@ -12,12 +14,12 @@ app.use(cors());
 
 app.get('/status', (req, res) => {
   res.send({
-    message: 'hello app:get world!',
+    message: 'hello app: get world!',
   });
 });
 app.post('/status', (req, res) => {
   res.send({
-    message: 'hello app:post world!2',
+    message: 'hello app: post world!2',
   });
 });
 app.post('/register', (req, res) => {
