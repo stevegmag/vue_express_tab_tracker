@@ -1,15 +1,16 @@
 # vue_express_tab_tracker
-https://www.youtube.com/watch?v=Fa4cRMaTDUI&t=2878s
 
 <https://github.com/stevegmag/vue_express_tab_tracker>
 
 Built using tutorial at:
+https://www.youtube.com/watch?v=Fa4cRMaTDUI&t=2878s
 
 Base: vuejs/vue-cli
 <https://github.com/vuejs/vue-cli>
 
 
 Basic NPM VUE-CLI Setup
+```
 > npm install -g @vue/cli
 -- switch directory to new porject
 > npm install
